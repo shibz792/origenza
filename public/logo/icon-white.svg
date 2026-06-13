@@ -1,0 +1,45 @@
+<svg viewBox="0 0 502 520" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Origenza">
+  <!-- Calligraphic O ring: thick left, thin right, via offset inner counter -->
+  <path
+    fill="#F2EFE6"
+    fill-rule="evenodd"
+    d="
+      M251 14
+      C379.7 14 484 119.2 484 258
+      C484 396.8 379.7 502 251 502
+      C122.3 502 18 396.8 18 258
+      C18 119.2 122.3 14 251 14Z
+
+      M264 119
+      C325.9 119 376 181 376 255
+      C376 329 325.9 391 264 391
+      C202.1 391 152 329 152 255
+      C152 181 202.1 119 264 119Z
+    "
+  />
+  <!-- Botanical G-bar leaf element on right side -->
+  <path
+    fill="#C8A45A"
+    d="
+      M376 268
+      C420 288 448 344 426 390
+      C410 420 380 434 348 430
+      C320 426 302 410 296 392
+      C290 374 300 354 320 349
+      C340 344 358 357 370 364
+      C382 371 386 354 377 328
+      C368 302 372 285 376 268Z
+    "
+  />
+  <!-- Curling tail extending beyond the outer O -->
+  <path
+    fill="#C8A45A"
+    d="
+      M426 386
+      C450 410 450 448 428 466
+      C418 476 404 476 398 468
+      C392 460 398 447 410 437
+      C422 427 422 409 410 390Z
+    "
+  />
+</svg>
